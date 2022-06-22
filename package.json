@@ -1,0 +1,22 @@
+{
+  "name": "calcular_la_media_aritmetica",
+  "version": "1.0.0",
+  "description": "this program calculate arithmetic mean",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yilbertprogra/arithmetic-mean.git"
+  },
+  "author": "Yilbert Luna <yilbert.luna.e@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yilbertprogra/arithmetic-mean/issues"
+  },
+  "homepage": "https://github.com/yilbertprogra/arithmetic-mean#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
